@@ -1,0 +1,8 @@
+{
+  "name": "benderjs-pfw",
+  "version": "0.0.1",
+  "description": "A benderjs plugin which adds overwrite button for PFW generated tests.",
+  "main": "lib/index.js",
+  "author": "CKSource (http://cksource.com/)",
+  "license": "MIT"
+}
